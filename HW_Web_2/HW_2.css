@@ -1,0 +1,114 @@
+html {
+    background-color: #FFEFD5;
+    }
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #FFE4B5;
+    padding: 0 20px 20px 30px;
+    border: 2px solid white;
+    }
+
+h1 {
+    color:rgb(55, 39, 5);
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p {
+    color:rgb(55, 39, 5);
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: inherit;
+}
+
+li {
+    color:rgb(55, 39, 5);
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: inherit;
+}
+
+
+.header {
+    height: 50px;
+    background-color: #ccc;
+
+}
+
+.footer {
+    height: 20px;
+    background-color: #ccc;
+    text-align: center;
+}
+
+.images {
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.Bauman {
+    width: 380px;
+    height: 300px;
+    border: 1px solid black;
+    margin-top: 20px;
+    border-radius: 20px;
+    background: url(https://mf.bmstu.ru/video/2019/10/27/img/01.png);
+    background-repeat: no-repeat;
+    background-size:cover; 
+}
+
+.Vitte {
+    width: 380px;
+    height: 300px;
+    border: 1px solid black;
+    margin-top: 20px;
+    border-radius: 20px;
+    background: url(https://cdn-ru.bitrix24.ru/b11382504/landing/4b1/4b18304f5a5565035ccb959b40632222/moskovskiy_univer_2x.png);
+    background-repeat: no-repeat;
+    background-size:cover; 
+}
+
+.Soccer {
+    width: 250px;
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 20px;
+    border-radius: 20px;
+    background: url(https://sun9-65.userapi.com/impf/c637926/v637926698/370b0/ywqEzMGk128.jpg?size=604x467&quality=96&sign=5612f6627c87dbaa8a8fcd372ff19641&type=album);
+    background-repeat: no-repeat;
+    background-size:cover; 
+}
+
+.Bicycle {
+    width: 250px;
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 20px;
+    border-radius: 20px;
+    background: url(https://pixy.org/src/39/thumbs350/390981.jpg);
+    background-repeat: no-repeat;
+    background-size:cover; 
+}
+
+.Athletics {
+    width: 250px;
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 20px;
+    border-radius: 20px;
+    background: url(https://avatars.mds.yandex.net/i?id=a488355a2bd5d657724e289538f12579-4346943-images-thumbs&ref=rim&n=33&w=480&h=299);
+    background-repeat: no-repeat;
+    background-size:cover; 
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+}
